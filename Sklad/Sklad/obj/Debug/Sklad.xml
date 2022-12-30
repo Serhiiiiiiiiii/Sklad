@@ -1,0 +1,436 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Sklad
+</name>
+</assembly>
+<members>
+<member name="T:Sklad.Склад_продуктових_товарівDataSet.ЗамовникиDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.ПосадиDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.ПостачальникиDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.ПрацівникиDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.СкладDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Типи_товарівDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.ТовариDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Відділ_кадрівDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.ЗамовленняDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Список_замовниківDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Список_постачальниківDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Список_товарівDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Фільтр_доставкаDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Фільтр_замовниківDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Фільтр_посадаDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Фільтр_постачальниківDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Фільтр_типи_товарівDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.data_zamovlennaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.seredniy_okladDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.vikDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.riznytsya_datDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.ЗамовникиRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.ПосадиRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.ПостачальникиRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.ПрацівникиRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.СкладRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Типи_товарівRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.ТовариRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Відділ_кадрівRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.ЗамовленняRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Список_замовниківRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Список_постачальниківRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Список_товарівRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Фільтр_доставкаRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Фільтр_замовниківRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Фільтр_посадаRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Фільтр_постачальниківRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Фільтр_типи_товарівRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.data_zamovlennaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.seredniy_okladRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.vikRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.riznytsya_datRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.ЗамовникиRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.ПосадиRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.ПостачальникиRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.ПрацівникиRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.СкладRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Типи_товарівRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.ТовариRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Відділ_кадрівRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.ЗамовленняRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Список_замовниківRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Список_постачальниківRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Список_товарівRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Фільтр_доставкаRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Фільтр_замовниківRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Фільтр_посадаRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Фільтр_постачальниківRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.Фільтр_типи_товарівRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.data_zamovlennaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.seredniy_okladRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.vikRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet.riznytsya_datRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.ЗамовникиTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.ПосадиTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.ПостачальникиTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.ПрацівникиTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.СкладTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.Типи_товарівTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.ТовариTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.Відділ_кадрівTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.ЗамовленняTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.Список_замовниківTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.Список_постачальниківTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.Список_товарівTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.Фільтр_доставкаTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.Фільтр_замовниківTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.Фільтр_посадаTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.Фільтр_постачальниківTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.Фільтр_типи_товарівTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.data_zamovlennaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.seredniy_okladTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.vikTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.riznytsya_datTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Sklad.Склад_продуктових_товарівDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Sklad.Склад_продуктових_товарівDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Sklad.Склад_продуктових_товарівDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Sklad.Склад_продуктових_товарівDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Sklad.Склад_продуктових_товарівDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Sklad.Склад_продуктових_товарівDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Sklad.Склад_продуктових_товарівDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Sklad.Склад_продуктових_товарівDataSetTableAdapters.TableAdapterManager.UpdateAll(Sklad.Склад_продуктових_товарівDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Sklad.Склад_продуктових_товарівDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Sklad.My.Resources.Resources.ResourceManager">
+	<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member><member name="P:Sklad.My.Resources.Resources.Culture">
+	<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member><member name="P:Sklad.My.Resources.Resources._1642597885_4_krot_info_p_sklad_art_6">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sklad.My.Resources.Resources._1642597891_8_krot_info_p_sklad_art_10">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sklad.My.Resources.Resources._1642597897_17_krot_info_p_sklad_art_21">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sklad.My.Resources.Resources._1642597914_29_krot_info_p_sklad_art_40">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sklad.My.Resources.Resources._1642597928_26_krot_info_p_sklad_art_37">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sklad.My.Resources.Resources._1642597942_18_krot_info_p_sklad_art_22">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sklad.My.Resources.Resources._1642597955_39_krot_info_p_sklad_art_54_________">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sklad.My.Resources.Resources._1642597981_49_krot_info_p_sklad_art_67">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sklad.My.Resources.Resources._1642597990_16_krot_info_p_sklad_art_20">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Sklad.My.Resources.Resources">
+	<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+</members>
+</doc>
