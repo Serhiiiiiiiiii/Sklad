@@ -23,7 +23,6 @@ Partial Class Form10
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
-        Me.Button6 = New System.Windows.Forms.Button()
         Me.ПрацівникиDataGridView = New System.Windows.Forms.DataGridView()
         Me.DataGridViewTextBoxColumn2 = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.DataGridViewTextBoxColumn3 = New System.Windows.Forms.DataGridViewTextBoxColumn()
@@ -49,22 +48,12 @@ Partial Class Form10
         Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.ComboBox1 = New System.Windows.Forms.ComboBox()
         Me.ПрацівникиTableAdapter = New Sklad.Склад_продуктових_товарівDataSetTableAdapters.ПрацівникиTableAdapter()
+        Me.Button6 = New System.Windows.Forms.Button()
         CType(Me.ПрацівникиDataGridView, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.ПрацівникиBindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Склад_продуктових_товарівDataSet, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox1.SuspendLayout()
         Me.SuspendLayout()
-        '
-        'Button6
-        '
-        Me.Button6.BackColor = System.Drawing.Color.DarkOrange
-        Me.Button6.Font = New System.Drawing.Font("Harlow Solid Italic", 15.75!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button6.Location = New System.Drawing.Point(12, 41)
-        Me.Button6.Name = "Button6"
-        Me.Button6.Size = New System.Drawing.Size(74, 37)
-        Me.Button6.TabIndex = 26
-        Me.Button6.Text = "Звіт"
-        Me.Button6.UseVisualStyleBackColor = False
         '
         'ПрацівникиDataGridView
         '
@@ -290,6 +279,17 @@ Partial Class Form10
         '
         Me.ПрацівникиTableAdapter.ClearBeforeFill = True
         '
+        'Button6
+        '
+        Me.Button6.BackColor = System.Drawing.Color.DarkOrange
+        Me.Button6.Font = New System.Drawing.Font("Harlow Solid Italic", 15.75!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button6.Location = New System.Drawing.Point(12, 41)
+        Me.Button6.Name = "Button6"
+        Me.Button6.Size = New System.Drawing.Size(74, 37)
+        Me.Button6.TabIndex = 26
+        Me.Button6.Text = "Звіт"
+        Me.Button6.UseVisualStyleBackColor = False
+        '
         'Form10
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -319,7 +319,6 @@ Partial Class Form10
         Me.PerformLayout()
 
     End Sub
-    Friend WithEvents Button6 As System.Windows.Forms.Button
     Friend WithEvents ПрацівникиDataGridView As System.Windows.Forms.DataGridView
     Friend WithEvents Button5 As System.Windows.Forms.Button
     Friend WithEvents Button4 As System.Windows.Forms.Button
@@ -345,4 +344,5 @@ Partial Class Form10
     Friend WithEvents DataGridViewTextBoxColumn5 As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents DataGridViewTextBoxColumn6 As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents DataGridViewTextBoxColumn7 As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents Button6 As System.Windows.Forms.Button
 End Class

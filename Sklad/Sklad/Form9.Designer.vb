@@ -365,7 +365,7 @@ Partial Class Склад
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackgroundImage = Global.Sklad.My.Resources.Resources._1642597990_16_krot_info_p_sklad_art_20
-        Me.ClientSize = New System.Drawing.Size(596, 390)
+        Me.ClientSize = New System.Drawing.Size(596, 384)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Button9)
         Me.Controls.Add(Me.Button8)
